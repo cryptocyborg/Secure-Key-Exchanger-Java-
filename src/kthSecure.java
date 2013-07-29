@@ -15,6 +15,14 @@ import javax.crypto.spec.SecretKeySpec;
 
 
 
+/**	
+	
+* The class doing the actual encryption
+ 
+*@author Ilesanmi Olufemi Olajide
+*/
+
+
 public class kthSecure {
 			
 		public byte[] EncryptMessage (byte[] msg) throws NoSuchAlgorithmException, NoSuchProviderException, NoSuchPaddingException, InvalidKeyException, InvalidAlgorithmParameterException, ShortBufferException, IllegalBlockSizeException, BadPaddingException, IllegalStateException
