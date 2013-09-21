@@ -1,4 +1,4 @@
-Secure-Key-Exchanger-Java-
+Chat Application with Encrypted Communication
 ==========================
 
-Secure Key Exchanger(Java)
+Chat Application with Encrypted Communication(Java)
